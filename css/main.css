@@ -1,0 +1,35 @@
+li {
+    list-style-type: none;
+}
+
+textarea {
+    resize: none;
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: scroll; /* or hiddenmm */
+}
+
+.parent {
+    background-color:yellowgreen;
+    margin: 10px;
+    padding: 10px;
+}
+
+.child {
+    margin: 0;
+    padding: 10px;
+    background-color: purple;
+}
+
+.child-one {
+    background-color: cadetblue;
+}
+
+.child-two {
+    background-color: coral;
+}
+
+.child-three {
+    background-color:darkolivegreen;
+}
+
